@@ -13,3 +13,7 @@ git merge issue-1 //merges the branch issue-1 with our current branch(the one be
 
  git log -r  //shows all commits along with the Author name and their email, time of commit etc.
 
+
+
+
+commit for B...
