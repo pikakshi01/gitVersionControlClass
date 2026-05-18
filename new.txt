@@ -1,12 +1,15 @@
-hello
-
 working directory
 static
 commit
 
-git switch
-git checkout
-git branch
+git switch ..... //switches to the branch named in this command
+git checkout .....  //switches to this branch
+git branch //shows all branch names
+git branch .... // creates new branch named .....
 
-new changes
+
+git merge issue-1 //merges the branch issue-1 with our current branch(the one being used)
+ git log --oneline  //shows all commits in 1 line each
+
+ git log -r  //shows all commits along with the Author name and their email, time of commit etc.
 
