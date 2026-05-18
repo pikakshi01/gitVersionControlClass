@@ -1,4 +1,10 @@
 hello
+
 working directory
 static
 commit
+
+git switch
+git checkout
+git branch
+
